@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pkl
+data.csv
+motion_model.pkl
+.DS_Store
+.idea/
+.vscode/
